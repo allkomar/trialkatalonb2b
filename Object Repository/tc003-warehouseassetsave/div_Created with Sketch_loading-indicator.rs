@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Created with Sketch_loading-indicator</name>
+   <tag></tag>
+   <elementGuidId>8aa8520d-4481-42e4-b7df-bdce6f0fda94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='kt_body']/app-loading/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.loading-indicator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cfa6c90-6f53-45a4-9ee9-aaaad0836196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>loading-indicator</value>
+      <webElementGuid>ad0c978d-14f0-4d9d-80f0-d8194d2e4ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/app-loading[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;loading-indicator&quot;]</value>
+      <webElementGuid>09bd972d-69b5-4e65-861c-6bd3eb99780f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='kt_body']/app-loading/div</value>
+      <webElementGuid>81a408f5-77e8-4abd-86bc-7efbd17f5ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[1]/preceding::div[13]</value>
+      <webElementGuid>42e9fbb3-aae3-4370-a24d-826e4d70b978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[2]/preceding::div[14]</value>
+      <webElementGuid>6c19bf1a-f76f-410d-86e8-31f8061a0f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>d0ef203b-0273-4105-b4bd-0544ecbfb669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

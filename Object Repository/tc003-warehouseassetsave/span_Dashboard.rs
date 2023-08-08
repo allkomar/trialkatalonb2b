@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>6567f8d3-cc31-4417-8ff1-620dd397541a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//side-menu[@id='kt_aside']/mat-tree/mat-tree-node/li/span[2]/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2cbc8bd-4ea9-48ba-87c2-ecf8de921ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>16a6c048-d22b-4316-9bbf-61c10465fb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside&quot;)/mat-tree[@class=&quot;mat-tree cdk-tree side-menu-tree ng-tns-c134-2&quot;]/mat-tree-node[@class=&quot;mat-tree-node cdk-tree-node ng-tns-c134-2 ng-star-inserted&quot;]/li[@class=&quot;mat-tree-node ng-tns-c134-2&quot;]/span[@class=&quot;ng-tns-c134-2&quot;]/button[@class=&quot;mat-focus-indicator ng-tns-c134-2 mat-flat-button mat-button-base mat-flat-button-default cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[1]</value>
+      <webElementGuid>b578c642-d5c5-4b5d-8368-4028a4293405</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//side-menu[@id='kt_aside']/mat-tree/mat-tree-node/li/span[2]/button/span/span</value>
+      <webElementGuid>b53a741f-a009-4103-9960-46af86f1f46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[3]/following::span[3]</value>
+      <webElementGuid>b3fc72b9-44cc-42e6-a269-2fd805824f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[2]/following::span[4]</value>
+      <webElementGuid>336421d6-3db2-4243-ab36-7fb0de12fbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[4]/preceding::span[3]</value>
+      <webElementGuid>27ff53ff-4930-488a-be0e-fc16d8eaf107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::span[4]</value>
+      <webElementGuid>2c8e6597-91c2-46df-b67b-0b65829db129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>9e391fb1-8c6c-43d4-8c09-db3a42376131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>ee321f6b-ba67-496e-8933-fdf2affe0fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>d033820e-411a-4a9a-9222-a0cea9dc36b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

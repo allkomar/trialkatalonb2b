@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>a0486ca8-4dec-4d62-ac87-565582b683c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_subheader']/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.text-dark.font-weight-bold.my-1.mr-5.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>26a7144d-ecf3-4224-90b4-8e357eaf89c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-dark font-weight-bold my-1 mr-5 ng-star-inserted</value>
+      <webElementGuid>097924dd-cf14-4ade-b499-82ecf35f1c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dashboard </value>
+      <webElementGuid>dced2862-4e07-46e8-8e42-8b6dca5b35eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_subheader&quot;)/div[@class=&quot;d-flex align-items-center justify-content-between flex-wrap flex-sm-nowrap container-fluid&quot;]/div[@class=&quot;d-flex align-items-center flex-wrap mr-1&quot;]/div[@class=&quot;d-flex align-items-baseline flex-wrap mr-5&quot;]/h4[@class=&quot;text-dark font-weight-bold my-1 mr-5 ng-star-inserted&quot;]</value>
+      <webElementGuid>eb2ba9cc-0b37-411d-80ef-c3785783d4fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_subheader']/div/div/div/h4</value>
+      <webElementGuid>cedb4b2e-4d4b-48ab-a019-17a5cd74bc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Center'])[1]/following::h4[1]</value>
+      <webElementGuid>1d2c14eb-c44e-4f59-a582-403def443467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[34]/following::h4[1]</value>
+      <webElementGuid>57d1a1d1-7aee-40eb-938d-934a917f4982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[3]/preceding::h4[1]</value>
+      <webElementGuid>f4eced58-69c7-48f5-9bc0-ef96bc8f674c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[35]/preceding::h4[1]</value>
+      <webElementGuid>e0a34c7f-3a09-4d90-89be-77826ddeece6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>e7f55820-9212-4d7a-bf7d-23dc16571e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = ' Dashboard ' or . = ' Dashboard ')]</value>
+      <webElementGuid>5c6f493e-8ce6-4997-b252-93f10d42522e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

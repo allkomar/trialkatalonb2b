@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KOMARUDIN</name>
+   <tag></tag>
+   <elementGuidId>1bba9537-bd1f-4901-bd5d-b32a3c59fd07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-header[@id='kt_header']/div/app-topbar/div/div[3]/div[7]/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-dark-50.font-weight-bolder.font-size-base.d-none.d-md-inline.mr-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed625229-d24d-4334-bb5c-cc97e81990ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-dark-50 font-weight-bolder font-size-base d-none d-md-inline mr-3</value>
+      <webElementGuid>694b1272-be11-4c18-bc80-f15e09b8dfea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOMARUDIN</value>
+      <webElementGuid>dcc41b23-a7b2-4fda-b4a0-9b42ee88380c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header&quot;)/div[@class=&quot;d-flex align-items-stretch justify-content-between container-fluid&quot;]/app-topbar[@class=&quot;topbar&quot;]/div[@class=&quot;topbar-menu&quot;]/div[3]/div[7]/div[@class=&quot;ng-star-inserted dropdown&quot;]/div[@class=&quot;dropdown-toggle topbar-item&quot;]/div[@class=&quot;btn btn-icon w-auto btn-clean d-flex align-items-center btn-lg px-2&quot;]/span[@class=&quot;text-dark-50 font-weight-bolder font-size-base d-none d-md-inline mr-3&quot;]</value>
+      <webElementGuid>628a5941-cbf2-4e22-980d-d63846868d28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-header[@id='kt_header']/div/app-topbar/div/div[3]/div[7]/div/div/div/span[2]</value>
+      <webElementGuid>30f0c7f0-fa13-4575-a799-271a40a3f6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/following::span[1]</value>
+      <webElementGuid>4575f5b7-8610-42b4-aeea-2f1f31ed9bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[36]/following::span[2]</value>
+      <webElementGuid>16cb30c3-f5f3-42f9-8b67-f00c0ccfc1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/preceding::span[1]</value>
+      <webElementGuid>6e38f394-79bb-4dd6-9068-3181251f0ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[2]/preceding::span[3]</value>
+      <webElementGuid>8d3478db-f374-4a06-a9ad-50327706c2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KOMARUDIN']/parent::*</value>
+      <webElementGuid>70597646-dbfb-47e2-951b-91a5d3888ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>4b459363-2b8f-4270-b0b0-003a15fdd1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'KOMARUDIN' or . = 'KOMARUDIN')]</value>
+      <webElementGuid>b935b5d5-6492-4924-b9fe-c4dc9a8be5d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

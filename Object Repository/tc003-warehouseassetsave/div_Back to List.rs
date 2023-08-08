@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Back to List</name>
+   <tag></tag>
+   <elementGuidId>1e2cc1da-f5d7-4cc0-93a1-81dd5802bd27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/ribbon-button/mat-toolbar/span[13]/div/button/span/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-flat-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > div > div.main-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9a52862-2f02-4508-a56a-a879ceb3575c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-text</value>
+      <webElementGuid>35a18151-ef75-4353-9b4d-eea19f5b3b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to List</value>
+      <webElementGuid>f7337f01-8030-44e2-8b80-a99d25e14d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/ribbon-button[@class=&quot;ng-star-inserted&quot;]/mat-toolbar[@class=&quot;mat-toolbar ribbon-toolbar mat-toolbar-single-row ng-star-inserted&quot;]/span[@class=&quot;ribbon-section&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-flat-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/div[1]/div[@class=&quot;main-text&quot;]</value>
+      <webElementGuid>b098f67d-1b5f-400f-99ee-4f7b05133df0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/ribbon-button/mat-toolbar/span[13]/div/button/span/div/div</value>
+      <webElementGuid>c76bde47-5c4e-48ca-9d8e-6ea277bb63e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send To Email'])[1]/following::div[3]</value>
+      <webElementGuid>6943168d-614d-4e5e-83cb-bd9138f0d008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[6]</value>
+      <webElementGuid>37013320-7bc9-4f19-a7ce-90fe18530fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::div[2]</value>
+      <webElementGuid>76fd042a-8cca-4cf0-b7e0-e85dae8ceded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[13]/div/button/span/div/div</value>
+      <webElementGuid>0e92a529-8df3-48fe-b644-ae46bbc1931e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Back to List' or . = 'Back to List')]</value>
+      <webElementGuid>a4b8d32d-fa93-41ce-a184-ebe8fd38792a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
